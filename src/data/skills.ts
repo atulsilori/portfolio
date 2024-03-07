@@ -5,7 +5,7 @@ const skills: TSkillStack[] = [
 		logo: 'core.svg',
 		title: 'Core',
 		subtitle:
-			'The build of a house is only as strong as its foundation. These are the core skills that I have developed over the years.',
+			"Just as a house's strength relies on its foundation, the core skills I have acquired through my industry experience serve as the bedrock for my professional capabilities. These fundamental abilities form the solid base upon which my expertise is built.",
 		skills: [
 			{
 				name: 'JavaScript',
@@ -29,7 +29,7 @@ const skills: TSkillStack[] = [
 		title: 'Frontend Development',
 		logo: 'frontend.svg',
 		subtitle:
-			'Fairly new to the frontend world, but I have been working on it for a while now. I am currently working on a few projects using Next JS and React Native. TailwindCSS is my go-to CSS framework.',
+			'Frontend development is my forte. I have been working on frontend technologies for years now and I am very comfortable with my stack.',
 		skills: [
 			{
 				name: 'React JS',
